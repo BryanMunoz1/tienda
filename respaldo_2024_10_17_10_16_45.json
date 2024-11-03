@@ -1,0 +1,46 @@
+{
+    "datos": [
+        {
+            "codigo_producto": "1",
+            "nombre_producto": "Camisa",
+            "inventario_producto": 40,
+            "precio_producto": 15000.0
+        },
+        {
+            "codigo_producto": "2",
+            "nombre_producto": "Pantalon",
+            "inventario_producto": 30,
+            "precio_producto": 35000.0
+        },
+        {
+            "codigo_producto": "3",
+            "nombre_producto": "Zapatos",
+            "inventario_producto": 20,
+            "precio_producto": 55000.0
+        },
+        {
+            "codigo_producto": "4",
+            "nombre_producto": "Sombrero",
+            "inventario_producto": 15,
+            "precio_producto": 25000.0
+        },
+        {
+            "codigo_producto": "5",
+            "nombre_producto": "Chaqueta",
+            "inventario_producto": 10,
+            "precio_producto": 85000.0
+        },
+        {
+            "codigo_producto": "7",
+            "nombre_producto": "cuadro",
+            "inventario_producto": 10,
+            "precio_producto": 10000.0
+        },
+        {
+            "codigo_producto": "8",
+            "nombre_producto": "papel",
+            "inventario_producto": 50,
+            "precio_producto": 100000.0
+        }
+    ]
+}
